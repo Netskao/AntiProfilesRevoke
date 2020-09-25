@@ -1,0 +1,9 @@
+Package: netskao.antiprofilesrevoke
+Name: AntiProfilesRevoke
+Depends: firmware (>= 11.0), mobilesubstrate
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: 越狱状态下忽略企业证书状态验证，使已经掉证书的应用依旧可以正常打开，支持iOS11-iOS14
+Maintainer: Nets
+Author: Netskao
+Section: Netskao-Tweaks
